@@ -63,17 +63,11 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-     
-    <p>&nbsp&nbsp&nbspTesley Wallace Jakson<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/Wall9019">
-    GitHub</a>&nbsp;|&nbsp;
+    Tesley Wallace Jakson<br>
+    <a href="https://github.com/Wall9019">GitHub</a> | 
     <a href="https://www.linkedin.com/in/tesley-wallace/">LinkedIn</a>
-&nbsp;|&nbsp;
+</p>
+
     <a href="https://www.instagram.com/tesley_wallace/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
