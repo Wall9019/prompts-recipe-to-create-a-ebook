@@ -44,7 +44,8 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Como Criar um eBook de Destaque na DIO
+ |
 
 ## ✨ Features
 
