@@ -67,8 +67,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCN_u5w69V9wUZYG8WeJWuNg&psig=AOvVaw2RJt4hYj7JyFKE2WxgLM5O&ust=1735614893698000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjPhMLDzooDFQAAAAAdAAAAABAE"
-    />
+     
     <p>&nbsp&nbsp&nbspTesley Wallace Jakson<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/Wall9019">
