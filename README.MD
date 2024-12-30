@@ -68,12 +68,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <a href="https://www.linkedin.com/in/tesley-wallace/">LinkedIn</a>
 </p>
 
-    <a href="https://www.instagram.com/tesley_wallace/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+    
 
 ---
 
